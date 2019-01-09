@@ -1,0 +1,11 @@
+{
+  "name": "flora.dashboard",
+  "version": "1.0.0",
+  "description": "View the status of Xiaomi Mi Flora Plant Sensors",
+  "main": "index.js",
+  "author": "Leendert de Kok",
+  "dependencies": {
+    "athom-api": "^2.1.145",
+    "moment": "^2.23.0"
+  }
+}
