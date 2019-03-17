@@ -1,6 +1,8 @@
 # Homey flora data dashboard
 View the status of Xiaomi Mi Flora Plant Sensors
 
+![example](example.jpg)
+
 ## How to install?
 1. Run `npm install`.
 2. Copy the `.env.dist` to `.env` and fill in the environment variables
